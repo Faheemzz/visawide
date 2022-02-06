@@ -1,12 +1,3 @@
-/*-----------------------------------------------------------------------------------
-
-    Template Name: Visapass - Visapass Services HTML5 Template
-    Description: Visapass - Visapass Services HTML5 Template
-    Author: BDevs
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
     CSS INDEX
     ===================
 
@@ -8637,4 +8628,9 @@ p.eleg {
 .contact-add{
   display: flex;
   justify-content: center;
+}
+.contact__gpinfo-icon {
+    position: absolute;
+    top: -33px;
+    left: 45%;
 }
