@@ -1,12 +1,4 @@
 /*-----------------------------------------------------------------------------------
-
-    Template Name: Visapass - Visapass Services HTML5 Template
-    Description: Visapass - Visapass Services HTML5 Template
-    Author: BDevs
-    Version: 1.0
-
------------------------------------------------------------------------------------
-
     CSS INDEX
     ===================
 
@@ -8643,4 +8635,10 @@ p.eleg {
   font-size: 25px;
   font-weight: 700;
   margin-bottom: 0px;
+}
+.t2{
+  color: #a6abb2 !important;
+}
+.heart{
+  color: red;
 }
